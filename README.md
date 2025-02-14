@@ -26,7 +26,10 @@ The dataset contains sales data for global online store, including:
 - **Most profitable product**: canon imageCLASS 2200 Advanced copier has the highest profit margin.
 
 ## screenshots
-![image](https://github.com/user-attachments/assets/4ad71c2b-79a2-4e5f-bd64-c1cf5d82fe71)
+![image](https://github.com/user-attachments/assets/4ad71c2b-79a2-4e5f-bd64-c1cf5d82fe71) .
+![image](https://github.com/user-attachments/assets/0cbb832e-dbe7-4895-9457-3e57022a94c9) .
+
+
 
 
 
