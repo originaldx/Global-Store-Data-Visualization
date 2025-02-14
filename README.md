@@ -33,6 +33,8 @@ Fig 2
 ![image](https://github.com/user-attachments/assets/483f17e7-f165-43dc-a974-ddc56b6c8985)
 Fig 3
 
+## How to use 
+1. Download the '.pbix' file and open it in Power Bi.
 
 
 
