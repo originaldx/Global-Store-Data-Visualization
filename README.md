@@ -36,5 +36,10 @@ Fig 3
 ## How to use 
 1. Download the '.pbix' file and open it in Power Bi.
 
+2. Explore the interactive dashboard for insights.
+
+## Future Improvements
+- Integrate live data sources for real-time analysis.
+- Perform predictive analytics to forecast sales trends.
 
 
